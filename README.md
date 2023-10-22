@@ -1,4 +1,4 @@
-# Desafio de Projeto POwer BI - DIO
+# Desafio de Projeto Power BI - DIO
 
 ## Relatório publicado no Power BI Web:
 
